@@ -1,7 +1,3 @@
-
-// Prim's Algorithm for finding the minimum cost spanning tree involves maintaining a priority queue or 
-// a minimum heap to efficiently select the next edge with the minimum weight. 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
